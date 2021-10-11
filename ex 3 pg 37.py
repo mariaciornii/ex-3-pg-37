@@ -1,0 +1,5 @@
+nume =str(input('ce nume ai?'))
+prenume=str(input('ce prenume ai?'))
+meseria=str(input('ce meserie vreai sa obtii?'))
+print ('te numesti', nume, prenume)
+print ('doresti sa devii', meseria )
